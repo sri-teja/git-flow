@@ -2,3 +2,4 @@ Things done so far,
 1. created feature-1 branch
 2. creating a file with name `feature-1.txt`
 3. pushed to feature-1 branch for discussion
+4. adding this point based on discussion in pull request.
